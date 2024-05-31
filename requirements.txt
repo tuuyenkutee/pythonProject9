@@ -4,4 +4,9 @@ python-dotenv
 langchain
 PyPDF2
 faiss-cpu
+<<<<<<< HEAD
 langchain_google_genai
+=======
+langchain_google_genai
+langchain-community
+>>>>>>> d3e1aa3 (Initial commit)
